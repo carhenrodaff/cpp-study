@@ -1,0 +1,3 @@
+/home/caheroaf/repos/cpp-study/5/sum/cmake-build-debug/CMakeFiles/sum.dir
+/home/caheroaf/repos/cpp-study/5/sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/caheroaf/repos/cpp-study/5/sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

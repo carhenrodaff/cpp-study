@@ -13,6 +13,7 @@ double quad_equation(double a, double b, double c){
     else{
         cout << "No real solutions" << endl;
     }
+    return 0.0;
 }
 
 int main() {
